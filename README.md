@@ -48,3 +48,6 @@ The final members table captures the join_date when a customer_id joined the bet
 customer_id	join_date**
 A	2021-01-07
 B	2021-01-09
+
+QUESTIONS AND SOLUTIONS ARE IN THE THE DANNY'S DINER.SQL FILE
+
